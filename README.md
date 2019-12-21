@@ -1,3 +1,3 @@
 # AzisabaProjects
-## アジ鯖用の成果物を纏めたレポジトリ
+## アジ鯖での成果物(活動記録)を纏めたレポジトリ
 - [KitPvP](https://github.com/Mizinkobusters/KitPvP) ([KitPvPReloaded](https://github.com/Mizinkobusters/KitPvPReloaded))
